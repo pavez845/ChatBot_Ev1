@@ -245,7 +245,7 @@ Este proyecto implementa un asistente virtual basado en IA para el Hospital Barr
 
 1. **Clona el repositorio**
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/pavez845/ChatBot_Ev1
    cd proyecto_unidad1IA
    ```
 
